@@ -1,8 +1,8 @@
 # Labyrinth 🔮
 
-### Team: [Your Team Name]
+### Team: Nwxus Point
 
-A real-time, co-operative game where two anonymous users solve a narrative adventure together. This project is being built for the "Build to Bond" hackathon.
+A real-time, co-operative game where two anonymous users solve a narrative adventure together.
 
 ---
 
