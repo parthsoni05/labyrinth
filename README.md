@@ -1,6 +1,6 @@
 # Labyrinth 🔮
 
-### Team: Nwxus Point
+### Team: Nexus Point
 
 A real-time, co-operative game where two anonymous users solve a narrative adventure together.
 
